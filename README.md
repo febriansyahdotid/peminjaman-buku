@@ -55,8 +55,6 @@ php artisan serve
 buka <http://127.0.0.1:8000/>
 
 
-## login
-buka <http://127.0.0.1:8000/login>
-
-Username : admin
-Password : admin177013
+## Login & Register
+Login <http://127.0.0.1:8000/login>
+Register <http://127.0.0.1:8000/register>
