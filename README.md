@@ -7,6 +7,9 @@ PHP minimal 8.0
 sudah terinstall composer
 <https://getcomposer.org/>
 
+sudah terinstall nodejs
+<https://nodejs.org/>
+
 ## instalasi
 
 ```bash
