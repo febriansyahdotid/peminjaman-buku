@@ -41,6 +41,10 @@ php artisan migrate --seed
 ```
 
 ```bash
+php artisan key:generate
+```
+
+```bash
 php artisan serve
 ```
 
