@@ -1,4 +1,4 @@
-# Website Peminjaman Buku Perpustakaan
+# LARAVEL
 
 ## Persyaratan sistem
 
@@ -11,14 +11,6 @@ sudah terinstall nodejs
 <https://nodejs.org/>
 
 ## instalasi
-
-```bash
-git clone https://github.com/febriansyahdotid/peminjaman-buku.git
-```
-
-```bash
-cd peminjaman-buku
-```
 
 ```bash
 cp .env.example .env
